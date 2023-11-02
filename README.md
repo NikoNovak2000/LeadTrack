@@ -1,1 +1,4 @@
-A simple chrome extension for saving leads(links).
+# LeadTrack
+
+A simple leads tracker extension for chrome.
+Created with Vue.js.
